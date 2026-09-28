@@ -1,5 +1,5 @@
 # Dash SNES v1.0
-
+[![Dash SNES](https://dashsnes.netlify.app/assets/logo.png)](https://dashsnes.netlify.app/assets/logomovie.mp4)
 **Super Nintendo emulator for Windows 10/11 (64-bit)**
 
 Dash SNES is an independent Super Nintendo emulator focused on simplicity, preservation, customization, and a clean desktop experience.
